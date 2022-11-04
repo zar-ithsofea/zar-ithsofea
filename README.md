@@ -15,7 +15,7 @@ Thank you for visiting! Remember to take a breather once in awhile (✧∀✧)/
 
 - 📄 Here's my [resume](https://drive.google.com/file/d/1d6EF1-v-VhaFaZoyYozXVZuheLFqJg-x/view?usp=sharing) ৻(  •̀ ᗜ •́  ৻)
 
-- 👨‍💻 All of my projects are available at [my github.](https://github.com/zar-ithsofea/zar-ithsofea)
+- 👨‍💻 All of my projects are available at [this repository.](https://github.com/zar-ithsofea/port-projects)
 
 - 📫 You can reach me through: zarithsofea.norezalee@gmail.com or connect with me at [LinkedIn.](https://linkedin.com/in/linkedin.com/in/zarithzalee/)
 
