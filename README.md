@@ -13,7 +13,7 @@ Thank you for visiting! Remember to take a breather once in awhile (✧∀✧)/
 
 - 🌱 I’m currently learning **Advanced Python | Advanced SQL | Tableau | PowerBI**
 
-- 📄 Here's my [resume](https://drive.google.com/file/d/1d6EF1-v-VhaFaZoyYozXVZuheLFqJg-x/view?usp=sharing) ৻(  •̀ ᗜ •́  ৻)
+- 📄 Here's my [resume](https://drive.google.com/drive/folders/1L3PgXkL3Qi5YaxqUh6AQhOITnLyYZhwF?usp=share_link) ৻(  •̀ ᗜ •́  ৻)
 
 - 👨‍💻 All of my projects are available at [this repository.](https://github.com/zar-ithsofea/port-projects)
 
